@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GroundLayer
+  - Water
+  - UI
+  - Player
+  - LevelChanger
+  - Objects
+  - Obstacles
+  - GravityChanger
+  - DoorGuardian
+  - Items
+  - Door
+  - Win
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3416709783
+    locked: 0
+  - name: Ground
+    uniqueID: 4242678539
+    locked: 0
+  - name: DoorGuardian
+    uniqueID: 3186328825
+    locked: 0
+  - name: Spikes
+    uniqueID: 3244486385
+    locked: 0
+  - name: gravityChangers
+    uniqueID: 3375948633
+    locked: 0
+  - name: Objects
+    uniqueID: 1126473569
+    locked: 0
+  - name: Obstacles
+    uniqueID: 45847549
+    locked: 0
+  - name: Player
+    uniqueID: 3506722269
+    locked: 0
+  - name: UI
+    uniqueID: 297913905
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 1967603849
+    locked: 0
